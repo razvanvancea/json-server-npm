@@ -16,3 +16,6 @@ npm run start
 ```html
 npm run start-schema
 ```
+
+### **Homepage**
+http://localhost:3000/
