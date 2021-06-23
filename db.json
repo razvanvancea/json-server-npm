@@ -1,0 +1,31 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "QA"
+    },
+    {
+      "id": 2,
+      "name": "DEV"
+    },
+    {
+      "id": 3,
+      "name": "HR"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Alfa"
+    },
+    {
+      "id": 2,
+      "name": "Beta"
+    },
+    {
+      "id": 3,
+      "name": "ZTC"
+    }
+  ]
+}
+
